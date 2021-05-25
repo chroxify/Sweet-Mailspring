@@ -1,0 +1,87 @@
+/*
+Include the standard variables from Mailspring's base theme:
+https://github.com/Foundry376/Mailspring/blob/master/app/static/base/ui-variables.less#L37:L40
+*/
+@import "base/ui-variables";
+
+//=============================== Colors ===============================//
+//== Color Definitions
+@background-color: #181B28;
+@cyan-color: #3086ff;
+@purple-color: #6d147c;
+@yellow-color: #FCCD1A;
+@pink-color: #d110df;
+@foreground-color: #ffffff;
+@selection-color: #252A3F;
+@comment-color: #272933;
+@green-color: #45D6A3;
+
+@gray-base: @foreground-color;
+@gray-darker: darken(@gray-base, 13.5%);
+@gray-dark: darken(@gray-base, 20%);
+@gray: darken(@gray-base, 33.5%);
+@gray-light: darken(@gray-base, 46.7%);
+@gray-lighter: darken(@gray-base, 92.5%);
+@white: @background-color;
+
+//== Color Descriptors
+@accent-primary: @pink-color;
+@accent-primary-dark: darken(@accent-primary, 10%);
+
+@background-primary: @background-color;
+@background-off-primary: @selection-color;
+@background-secondary: @background-color;
+@background-tertiary: @comment-color;
+
+@color-info: @blue-dark;
+@color-success: @green-color;
+@color-warning: @yellow-color;
+@color-error: #FF483F;
+@color-danger: #FF483F;
+
+
+@component-active-color: @accent-primary-dark;
+@component-active-bg: @background-primary;
+
+@border-color-primary: lighten(@background-primary, 10%);
+@border-color-secondary: lighten(@background-secondary, 10%);
+@border-color-tertiary: lighten(@background-tertiary, 10%);
+@border-color-divider: @border-color-secondary;
+
+//============================= Other =============================//
+// ----- Colors -----
+@text-color: @foreground-color;
+@text-color-subtle: fadeout(@text-color, 20%);
+@text-color-very-subtle: fadeout(@text-color, 40%);
+@text-color-inverse: @foreground-color;
+@text-color-inverse-subtle: fadeout(@text-color-inverse, 20%);
+@text-color-inverse-very-subtle: fadeout(@text-color-inverse, 50%);
+@text-color-heading: @foreground-color;
+
+@text-color-link: @accent-primary;
+@text-color-link-hover: @accent-primary-dark;
+@text-color-link-active: @accent-primary-dark;
+
+//== Buttons & Dropdowns
+@btn-default-bg-color: lighten(@background-primary, 5%);
+@dropdown-default-bg-color: @selection-color;
+
+//== Inputs
+@input-bg: @background-color;
+@input-border: @border-color-divider;
+
+//== Thread List 
+@list-bg: @background-color;
+@list-border: @selection-color;
+@list-focused-bg: @accent-primary-dark;
+@list-selected-color: @text-color-inverse;
+@list-focused-color: @text-color;
+
+//== Toolbar
+@toolbar-background-color: @background-color;
+
+//== Account Sidebar
+@panel-background-color: @background-color;
+@source-list-bg: @panel-background-color;
+@source-list-active-bg: @panel-background-color;
+@source-list-active-color: @accent-primary;
