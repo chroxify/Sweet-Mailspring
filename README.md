@@ -13,6 +13,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
    ```
 
 ### Install manually
+Download using the [Github .zip download](https://github.com/Chroxify/Sweet-Mailspring/archive/refs/heads/main.zip) option and unzip them. 
 
 ## Team
 
