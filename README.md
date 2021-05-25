@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/mailspring](https://draculath
 
 This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/mailspring/graphs/contributors).
 
-[![Chroxify](https://avatars.githubusercontent.com/chroxify)](https://github.com/chroxify) | 
+[![Chroxify](https://avatars.githubusercontent.com/chroxify?v=3&s=70)](https://github.com/chroxify) | 
 --- | 
 [Chroxify](https://github.com/chroxify) |
 
