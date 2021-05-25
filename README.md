@@ -23,7 +23,7 @@ Download using the [Github .zip download](https://github.com/Chroxify/Sweet-Mail
 
 ## Team
 
-This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/mailspring/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/Chroxify/Sweet-Mailspring/graphs/contributors).
 
 [![Chroxify](https://avatars.githubusercontent.com/chroxify?v=3&s=70)](https://github.com/chroxify) | 
 --- | 
