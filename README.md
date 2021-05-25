@@ -1,6 +1,6 @@
-# Dracula for [Mailspring](https://github.com/Foundry376/Mailspring)
+# Sweet for [Mailspring](https://github.com/Foundry376/Mailspring)
 
-> A dark theme for [Mailspring](https://github.com/Foundry376/Mailspring).
+> A costum dark theme for [Mailspring](https://github.com/Foundry376/Mailspring).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/mailspring](https://draculath
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/mailspring/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/mailspring/graphs/contributors).
 
-[![Avelino](https://avatars0.githubusercontent.com/u/31996?v=3&s=70)](https://github.com/avelino) | 
+[![Chroxify](https://avatars0.githubusercontent.com/u/31996?v=3&s=70)](https://github.com/chroxify) | 
 --- | 
-[Avelino](https://github.com/avelino) |
+[Chroxify](https://github.com/chroxify) |
 
 ## License
 
