@@ -10,7 +10,7 @@
 #### Install using Git 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
    ```sh
-   git clone 
+   git clone https://github.com/Chroxify/Sweet-Mailspring.git
    ```
 
 #### Install manually
