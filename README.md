@@ -3,7 +3,7 @@
 
 > A costum dark theme for [Mailspring](https://github.com/Foundry376/Mailspring).
 
-![Screenshot](./screenshot/sweet-mailspring.png)
+![Screenshot](./screenshot/Sweet-Mailspring.png)
 
 ## Getting Started
 
