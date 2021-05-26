@@ -1,10 +1,10 @@
 {
-  "name": "sw33t",
-  "title": "Sw33t",
-  "displayName": "sw33t",
+  "name": "sweet",
+  "title": "Sweet",
+  "displayName": "Sweet",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A costum dark theme for Mailspring",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
